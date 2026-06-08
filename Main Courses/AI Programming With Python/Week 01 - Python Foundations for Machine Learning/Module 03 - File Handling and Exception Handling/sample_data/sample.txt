@@ -1,0 +1,3 @@
+Key CharacteristicsUnity: Every sentence must directly relate to the controlling idea.
+Coherence: Sentences flow logically from one to the next using transition words
+Structure: The first line is typically indented or separated by a blank line for visual clarity.
