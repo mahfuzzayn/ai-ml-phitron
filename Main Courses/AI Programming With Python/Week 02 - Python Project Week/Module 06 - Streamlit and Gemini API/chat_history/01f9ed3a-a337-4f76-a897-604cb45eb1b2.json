@@ -1,0 +1,29 @@
+{
+  "id": "01f9ed3a-a337-4f76-a897-604cb45eb1b2",
+  "title": "Hi there, how are you?",
+  "created_at": "2026-06-24T03:21:04.884512",
+  "updated_at": "2026-06-24T03:21:36.474286",
+  "model": "gemini-2.0-flash",
+  "messages": [
+    {
+      "role": "user",
+      "text": "Hi there, how are you?",
+      "media": []
+    },
+    {
+      "role": "assistant",
+      "text": "⚠️ **Rate limit hit.**\n\nPlease wait a moment before sending another message.",
+      "media": null
+    },
+    {
+      "role": "user",
+      "text": "What",
+      "media": []
+    },
+    {
+      "role": "user",
+      "text": "Ki re shala",
+      "media": []
+    }
+  ]
+}
